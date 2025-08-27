@@ -15,10 +15,6 @@
   "buildCommand": "pip install -r requirements.txt",
   "env": {
     "SECRET_KEY": "@secret_key",
-    "PROXY": "@proxy",
-    "USER_AGENT": "@user_agent",
-    "INSTAGRAM_API_KEY": "@instagram_api_key",
-    "FIREBASE_API_KEY": "@firebase_api_key",
     "SEARCH_COST": "2"
   }
 }
