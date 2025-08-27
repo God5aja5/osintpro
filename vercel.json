@@ -14,7 +14,6 @@
   ],
   "buildCommand": "pip install -r requirements.txt",
   "env": {
-    "SECRET_KEY": "@secret_key",
     "SEARCH_COST": "2"
   }
 }
